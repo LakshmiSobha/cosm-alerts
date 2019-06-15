@@ -1,6 +1,6 @@
 import React from 'react';
 import './App.css';
-import GetProducts from './components/GetProducts.js';
+import GetProducts from './components/GetProducts.jsx';
 
 function App() {
   return (
